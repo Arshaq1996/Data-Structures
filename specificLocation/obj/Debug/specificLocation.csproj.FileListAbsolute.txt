@@ -1,0 +1,7 @@
+c:\users\intern\source\repos\specificLocation\specificLocation\bin\Debug\specificLocation.exe.config
+c:\users\intern\source\repos\specificLocation\specificLocation\bin\Debug\specificLocation.exe
+c:\users\intern\source\repos\specificLocation\specificLocation\bin\Debug\specificLocation.pdb
+c:\users\intern\source\repos\specificLocation\specificLocation\obj\Debug\specificLocation.csprojResolveAssemblyReference.cache
+c:\users\intern\source\repos\specificLocation\specificLocation\obj\Debug\specificLocation.csproj.CoreCompileInputs.cache
+c:\users\intern\source\repos\specificLocation\specificLocation\obj\Debug\specificLocation.exe
+c:\users\intern\source\repos\specificLocation\specificLocation\obj\Debug\specificLocation.pdb
